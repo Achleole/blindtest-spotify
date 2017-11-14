@@ -43,6 +43,7 @@ class App extends Component {
         </header>
         <div className="App-images">
           <p>Il va falloir modifier le code pour faire un vrai Blindtest !</p>
+          <p> Le changement en temps réel c'est cool </p>
         </div>
         <div className="App-buttons">
         </div>
